@@ -1,0 +1,11 @@
+{
+	"default": {
+		"host": "http://digicodeltd.com"
+	},
+	"test": {
+		"host": "http://digicodeltd.com"
+	},
+	"live": {
+		"host": "http://digicodeltd.com"
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "extends": "airbnb",
+    "plugins": ["react"],
+    "rules": {
+    	"indent": ["error", "tab"],
+        "react/jsx-indent": ["error", "tab"],
+        "comma-dangle": 0
+    }
+}
